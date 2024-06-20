@@ -115,6 +115,7 @@ if __name__ == '__main__':
     say("Hello, I am Sheldon, How can I help you sir?")
     say_female("Amy present too sir")
     while True:
+        say("Listening")
         print("Listening...")
         query = takecommand()
         sites = [["YouTube", "https://www.youtube.com"], ["wikipedia", "https://www.wikipedia.com"], ["google", "https://www.google.com"]]
