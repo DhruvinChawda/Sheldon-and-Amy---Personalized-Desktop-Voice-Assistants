@@ -5,6 +5,9 @@ Meet Sheldon and Amy - my personalized desktop assistants. Sheldon helps me with
 
 ![desktop-bots](https://github.com/DhruvinChawda/Sheldon-and-Amy---Personalized-Desktop-Voice-Assistants/assets/108188838/6157ed77-1849-43da-91f1-9f24d0ba1552)
 
+
+Gemini model used :- Gemini 1.5 Flash
+
 Steps to run file : 
  1. Download VSCODE(preferred) or PYCHARM and open file in the code editor.
  2. Create a folder named 'Gemini' for storing response history by sheldon (you can change the name of the folder but ensure that you change it in the code also.
