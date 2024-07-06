@@ -15,7 +15,7 @@ Steps to run file :
  4. Generate your gemini api key from GOOGLE AI STUDIOS and store it in variable named "gemini_api_key = 'your key' in config.py file.
  5. Run the code using run symbol on top right corner.
 
-Commands to efficiently operate Bots :
+Commands to efficiently operate bots :
 
 1. Say "Hey sheldon" before your prompt for generating GPT like responses.
 
