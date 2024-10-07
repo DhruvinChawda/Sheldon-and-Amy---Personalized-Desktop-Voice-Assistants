@@ -1,4 +1,5 @@
 # Sheldon-and-Amy--Personalized-Desktop-Voice-Assistants
+NOTE : This is only rough draft this is not a full code of the project
 Meet Sheldon and Amy - my personalized desktop assistants. Sheldon helps me with my tasks and knowledge and facts whereas for chatting purpose Amy is always there. 
 
 
